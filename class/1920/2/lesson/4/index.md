@@ -4,9 +4,6 @@
 
 [程式網站]
 
-[起步程式]
-![程序代碼]
-
 [上堂完成品]
 ![上堂完整代碼]
 
@@ -23,9 +20,9 @@
 [程式網站]: https://arcade.makecode.com
 
 [上堂完成品]: ./resource/arcade-complexMaze_completed.png
-[上堂完整代碼]: ./resource/complexMaze_completedCode.png
+[上堂完整代碼]: ./resource/complexMaze_completedCode.PNG
 
 [另一版本]: ./resource/InkedmazeCode_LI.jpg
 
 [起步程式]: ./resource/arcade-MazeRevision_complete.png
-[程序代碼]: ./resource/mazeRevision_completedCode.png
+[程序代碼]: ./resource/mazeRevision_completedCode.PNG
