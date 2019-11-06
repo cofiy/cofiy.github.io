@@ -12,5 +12,5 @@
 [首頁]: ../../../index.md
 [一起用MakeCode Arcade製造遊戲吧！ - 簡介]: ./lesson/1/index.md
 [迷宮（1）]: ./lesson/2/index.md
-[迷宮（2）]: ./lesson/3/short.md
+[迷宮（2）]: ./lesson/3/index.md
 [迷宮複習]: ./lesson/4/index.md
