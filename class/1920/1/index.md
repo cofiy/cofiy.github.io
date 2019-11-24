@@ -7,7 +7,7 @@
 1. [物聯網與ObjectBlocks - 簡介]
 2. [數碼輸入]
 3. [模擬輸入 / 輸出]
-4. [伺服馬達]
+4. [伺服馬達 / 費式數列（Fibonacci Sequence）專題]
 
 [首頁]: ../../../index.md
 [物聯網與ObjectBlocks - 簡介]: ./lesson/1/index.md
