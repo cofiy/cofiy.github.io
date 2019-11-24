@@ -13,4 +13,4 @@
 [物聯網與ObjectBlocks - 簡介]: ./lesson/1/index.md
 [數碼輸入]: ./lesson/2/index.md
 [模擬輸入 / 輸出]: ./lesson/3/index.md
-[伺服馬達]: ./lesson/4/index.md
+[伺服馬達 / 費式數列（Fibonacci Sequence）專題]: ./lesson/4/index.md
